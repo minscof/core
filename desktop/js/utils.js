@@ -355,7 +355,7 @@ $('#bt_gotoPlan3d').on('click',function(){
 });
 
 $('#bt_messageModal').on('click',function(){
-  $('#md_modal').dialog({title: "{{Message Jeedom}}"});
+  $('#md_modal').dialog({title: "{{Message}}"});
   $('#md_modal').load('index.php?v=d&p=message&ajax=1').dialog('open');
 });
 
