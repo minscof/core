@@ -3,7 +3,7 @@ Jeedom spécifiques à l’utilisateur : page d’accueil, thème de la
 version desktop, de la version mobile, des graphiques…​ Elle permet
 aussi de changer votre mot de passe.
 
-Vous la retrouvez en haut à droite en cliquant sur le l’icône bonhomme
+Vous la retrouvez en haut à droite en cliquant sur l’icône bonhomme
 puis Profil (suivi de votre identifiant).
 
 Thèmes 
